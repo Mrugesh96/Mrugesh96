@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mrugesh96
-- 👀 I’m interested in Coding and Web Development
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in Testing
+- 🌱 I’m currently learning Java
 - 📫 How to reach me----
 - Insta-mrugesh_rasal
-- LinkedIn-Mrugesh Rasal
+- 
 - 
 
 <!---
